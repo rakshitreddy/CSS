@@ -1,0 +1,20 @@
+h1{
+    color:blue;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    background-color: green;
+    color:  yellow;
+}
+div{
+    text-align: center;
+    border: 2px solid green;
+    width: auto;
+    height: 25px;
+    background-color: yellow;
+}
+
+#first{
+    color:red;
+}
